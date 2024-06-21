@@ -48,3 +48,9 @@ Running the Backend Server
 1. Navigate to the `backend` directory.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the server.
+
+SCREENSHOTS:
+
+
+![SlidelyAITask Frontend](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/ade8a4de-e074-40d5-8ea9-b80783b7ac03)
+
