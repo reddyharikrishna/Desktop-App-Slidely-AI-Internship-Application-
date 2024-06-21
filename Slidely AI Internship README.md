@@ -54,3 +54,9 @@ SCREENSHOTS:
 
 ![SlidelyAITask Frontend](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/ade8a4de-e074-40d5-8ea9-b80783b7ac03)
 
+![SlidelyAITask Frontend 2](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/ea2b0a23-1845-4ffb-bd23-96f85cbada20)
+
+![Form Frontend](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/e995bc7d-4488-413c-bfc4-80f0a1cc431e)
+
+
+
