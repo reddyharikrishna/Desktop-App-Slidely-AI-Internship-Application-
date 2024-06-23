@@ -51,12 +51,16 @@ Running the Backend Server
 
 SCREENSHOTS:
 
+MainForm 
 
-![SlidelyAITask Frontend](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/ade8a4de-e074-40d5-8ea9-b80783b7ac03)
+![MainForm vb](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/0b587d4c-b1ac-4319-b787-020b179fcbbe)
 
-![SlidelyAITask Frontend 2](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/ea2b0a23-1845-4ffb-bd23-96f85cbada20)
+View Submissions
 
-![Form Frontend](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/e995bc7d-4488-413c-bfc4-80f0a1cc431e)
+![FormViewSubmission vb](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/91c54577-6219-423d-848f-d6e2d0d4d680)
 
+Create Submission
+
+![FormCreateSubmission vb](https://github.com/reddyharikrishna/Desktop-App-Slidely-AI-Internship-Application-/assets/104090204/f29b6229-2cd3-4cfe-a31c-98a4f15d3ca1)
 
 
